@@ -1,2 +1,2 @@
-# Complementi_di_Controlli_Final_Project
-Complementi di Controlli Final Project Patellaro Emmanuel P38000239
+# Complementi di Controlli Final Project
+📈🔩 This repository contains the final project for the Complementi di Controlli (CC) course 🔩📈
